@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Mushan Wiki"
   text: "个人知识库"
-  tagline: 知识是进步的阶梯，争取每天都有知识点更新。
+  tagline: 温澜南向昆明湖，轻浪北往牡丹江。
   actions:
     - theme: brand
       text: Nav
