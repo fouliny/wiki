@@ -15,7 +15,7 @@ hero:
       link: /api-examples
     - theme: alt
       text: Wiki
-      link: /api-examples
+      link: /win10
 
 features:
   - title: A
